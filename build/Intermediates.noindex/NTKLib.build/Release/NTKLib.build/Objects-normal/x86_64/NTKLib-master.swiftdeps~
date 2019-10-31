@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "fd50d63e4ed6adaa15c458254b21c047"
+build_time: [1572525717, 904858000]
+inputs:
+  "/Users/lamukun/work/nonoi-tk/NTKLib/NTKLib/NTKTextField.swift": [9223372036, 854775807]
+  "/Users/lamukun/work/nonoi-tk/NTKLib/NTKLib/NTKImageView.swift": [9223372036, 854775807]
+  "/Users/lamukun/work/nonoi-tk/NTKLib/NTKLib/NTKSecureTextField.swift": [9223372036, 854775807]

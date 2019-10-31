@@ -1,0 +1,4 @@
+framework module NTKLib {
+  header "NTKLib-Swift.h"
+  requires objc
+}
