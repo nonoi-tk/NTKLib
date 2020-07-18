@@ -1,7 +1,7 @@
-version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
-options: "fd50d63e4ed6adaa15c458254b21c047"
-build_time: [1572526449, 541903000]
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "64797003b8c4e88864471a53bf933cfc"
+build_time: [1595099013, 399277000]
 inputs:
-  "/Users/lamukun/work/nonoi-tk/NTKLib/NTKLib/NTKTextField.swift": [9223372036, 854775807]
-  "/Users/lamukun/work/nonoi-tk/NTKLib/NTKLib/NTKImageView.swift": [9223372036, 854775807]
-  "/Users/lamukun/work/nonoi-tk/NTKLib/NTKLib/NTKSecureTextField.swift": [9223372036, 854775807]
+  "/Users/tkakoi/github/NTKLib/NTKLib/NTKTextField.swift": [9223372036, 854775807]
+  "/Users/tkakoi/github/NTKLib/NTKLib/NTKImageView.swift": [9223372036, 854775807]
+  "/Users/tkakoi/github/NTKLib/NTKLib/NTKSecureTextField.swift": [9223372036, 854775807]

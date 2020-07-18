@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		dsP3D0bvWLmmh3hACQAIJ5klE8c=
+		v8EgP9dVVR6qcLY7ZY845blKvrE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -26,11 +26,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eNSlqI1rP7XMcmfjRMSfismxQQA=
+			WMf4QN/I6x3ySMFT7PufnG9v92Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			goqgysr8AdvbxTyG1FojL8JLNuERJ610SkLxBGCFJiw=
+			8ZddfEqEDGfwzuO8nzjb4nYkmIG0uFMjg/WaNEi+qpY=
 			</data>
 		</dict>
 		<key>Headers/NTKSecureTextField.swift</key>
@@ -55,48 +55,70 @@
 			0qIzNR6YN/ai303QtxE9Y19dtQ5QK74Qv9CHHr3Njq0=
 			</data>
 		</dict>
+		<key>Modules/NTKLib.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7PebEcOsMx3NBS+lYhbb0bPdtbs=
+			</data>
+			<key>hash2</key>
+			<data>
+			tVh2vKQTqCu6tIQwDI2jhVaJSKJ/EjY2WjD0maHXGnc=
+			</data>
+		</dict>
+		<key>Modules/NTKLib.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7PebEcOsMx3NBS+lYhbb0bPdtbs=
+			</data>
+			<key>hash2</key>
+			<data>
+			tVh2vKQTqCu6tIQwDI2jhVaJSKJ/EjY2WjD0maHXGnc=
+			</data>
+		</dict>
 		<key>Modules/NTKLib.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CR4nwLWsjnAX6tJJSCTYABBDNaM=
+			6CJm+Iuyq/IHvIwOoKcm66Igj9c=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q7A1uwmPcvJ1lR4eoZZo5qsl6K01T1zSJVck7gasmjU=
+			wC4YwAxX4CohVC3aTnnjQyZJkDZYKbOS3Smc4NiQFQY=
 			</data>
 		</dict>
 		<key>Modules/NTKLib.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jzA6RGl2+Vi2Lp689wf+CSJO3WA=
+			8NhTGHr54r76dCpA9EOFR5mfZlE=
 			</data>
 			<key>hash2</key>
 			<data>
-			AQ7ADGge77b5/e2v0QU09ymbxCVYGbALWOxyuIe0E1U=
+			ZnztBfzAL1DQEFT8PrYPkikvFU0eJKjxOyl1EVwEsWA=
 			</data>
 		</dict>
 		<key>Modules/NTKLib.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CR4nwLWsjnAX6tJJSCTYABBDNaM=
+			6CJm+Iuyq/IHvIwOoKcm66Igj9c=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q7A1uwmPcvJ1lR4eoZZo5qsl6K01T1zSJVck7gasmjU=
+			wC4YwAxX4CohVC3aTnnjQyZJkDZYKbOS3Smc4NiQFQY=
 			</data>
 		</dict>
 		<key>Modules/NTKLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jzA6RGl2+Vi2Lp689wf+CSJO3WA=
+			8NhTGHr54r76dCpA9EOFR5mfZlE=
 			</data>
 			<key>hash2</key>
 			<data>
-			AQ7ADGge77b5/e2v0QU09ymbxCVYGbALWOxyuIe0E1U=
+			ZnztBfzAL1DQEFT8PrYPkikvFU0eJKjxOyl1EVwEsWA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -114,11 +136,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dsP3D0bvWLmmh3hACQAIJ5klE8c=
+			v8EgP9dVVR6qcLY7ZY845blKvrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			cXA19kkdzR6adkwqemZi46iwz99t4SaOYgwpMlrJU8w=
+			GGOv38LYTG+9jOimTYCzoVtM2sCAfb2DeSns4BxdAZs=
 			</data>
 		</dict>
 	</dict>
